@@ -1,0 +1,15 @@
+# Configuration file for Aether Generator Plugin
+
+# Island generation settings
+island:
+  frequency: 10 # Frequency of island generation (1 in X chance)
+  size:
+    min: 5 # Minimum island size
+    max: 10 # Maximum island size
+  materials:
+    - STONE # Block types for the lower part of the island
+    - GRASS_BLOCK # Block type for the grass layer
+    - DIRT # Block type for the dirt layer
+
+# Other plugin settings
+otherSetting: true
