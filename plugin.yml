@@ -1,0 +1,6 @@
+name: Aether
+version: 0.1
+description: A plugin that brings back the old Aether dimension to Bukkit 1.8X.
+load: STARTUP
+authors: [NoxShadow-YT]
+main: pckage.com.example.aether
